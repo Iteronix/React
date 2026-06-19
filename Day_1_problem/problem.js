@@ -65,7 +65,7 @@ console.log(second);
 // Write a function sayHello with a parameter name that defaults to "Guest" if not provided. Log the output when called with and without an argument
 
 function sayHello(name = "Guest") {
-    console.log("Hello, " + name + );
+    console.log("Hello, " + name  );
 }
 
 // Calling with an argument
